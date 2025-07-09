@@ -17,7 +17,7 @@ Kick the tires on **giv** in two easy steps:
 
 1. Install `giv` on any modern shell:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/itlackey/giv/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/giv-cli/giv/main/install.sh | sh
 ```
 1. Once installed, run `giv --help` to explore commands and options.
 
