@@ -1,3 +1,4 @@
+![](./03-banner.png)
 ## About
 
 We’re the caretakers of **giv**, the go-to CLI tool for generating structured summaries, changelogs, and commit messages without breaking a sweat. Our goals:
@@ -12,13 +13,17 @@ At its core, **giv** turns raw Git diffs into crisp, human-readable text—summa
 
 ## Getting Started
 
-Kick the tires on **giv** in two easy steps, following the no-nonsense approach of community write-ups ([stevemar.net][5]):
+Kick the tires on **giv** in two easy steps:
 
 1. Install `giv` on any modern shell:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/itlackey/giv/main/install.sh | sh
 ```
-2. Once installed, run `giv --help` to explore commands and options.
+1. Once installed, run `giv --help` to explore commands and options.
+
+## More Information
+
+To lean more about `giv` and it's features, head over to the repo and check it out [https://github.com/giv-cli/giv](https://github.com/giv-cli/giv)
 
 ## Contributing
 
